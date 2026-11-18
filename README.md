@@ -23,22 +23,22 @@
 
 <div align="center">
   <a href="https://el-mas.web.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Website" />
   </a>
   <a href="https://asyitech.id" target="_blank">
-    <img src="https://img.shields.io/badge/Asyitech-1E293B?style=for-the-badge&logo=cloudflare&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/Asyitech-1E293B?style=for-the-badge&logo=cloudflare&logoColor=38BDF8" alt="Asyitech" />
   </a>
   <a href="mailto:hello@asyitech.id">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://el-mas.web.id/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmad-syaifulloh-9536b03b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://el-mas.web.id/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/el.mas.sync" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/el-mas-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -62,6 +62,17 @@ fun:
 
 <br />
 
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **Personal Portfolio** | Next.js, Tailwind CSS, TypeScript | Modern personal website featuring dark aesthetic, responsive design & interactive components. | [Live Demo](https://el-mas.web.id/) |
+| **Asyitech** | Modern Web, Cloudflare | Tech ecosystem & digital solutions hub for creative web development. | [Website](https://asyitech.id) |
+| **Sistem Monitoring Pesantren** | Full-Stack Web, MySQL, PHP | Sistem informasi manajemen pesantren terpadu: absensi digital santri, pencatatan SPP, dan administrasi. | [Repository](https://github.com/el-mas-dev/System-Monitoring-Pesantren-) |
+| **LaskarSpace** | TypeScript, React / Modern Web | Collaborative platform & modern web workspace application. | [Repository](https://github.com/el-mas-dev/LaskarSpace) |
+
+<br />
+
 ## 🛠️ Languages & Tools
 
 **💻 Programming Languages**
@@ -76,11 +87,10 @@ fun:
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
-**⚙️ Backend, Database & Local Server**
+**⚙️ Backend & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,supabase,postgres,mysql,mongodb" />&nbsp;
-  <img src="https://api.iconify.design/logos/xampp.svg" width="46" height="46" alt="XAMPP" title="XAMPP" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,supabase,postgres,mysql,mongodb" />
 </p>
 
 **☁️ Cloud, DevOps & Dev Tools**
@@ -111,4 +121,28 @@ fun:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=el-mas-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+</div>
+
+<br />
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-mas-dev/el-mas-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-mas-dev/el-mas-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/el-mas-dev/el-mas-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🤝 Let's Connect & Collaborate!</h3>
+  <p>
+    I'm always open to discussing web development projects, creative tech ideas, or professional opportunities.
+  </p>
+  <p>
+    📫 Feel free to reach out via <a href="mailto:hello@asyitech.id"><b>hello@asyitech.id</b></a> or connect with me on <a href="https://www.linkedin.com/in/ahmad-syaifulloh-9536b03b7" target="_blank"><b>LinkedIn</b></a>.
+  </p>
 </div>
