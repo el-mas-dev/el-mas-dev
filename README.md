@@ -5,7 +5,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/el-mas-dev.png" width="175" style="border-radius: 50%;" alt="Ahmad Syaifulloh" />
+  <a href="https://github.com/el-mas-dev">
+    <img src="https://github.com/el-mas-dev.png" width="175" style="border-radius: 50%;" alt="Ahmad Syaifulloh" />
+  </a>
 </div>
 
 <div align="center">
@@ -17,6 +19,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=el-mas-dev&label=Profile%20Views&color=0284c7&style=flat" />
   <img src="https://img.shields.io/github/followers/el-mas-dev?label=Followers&color=0284c7&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-0284c7?style=flat" alt="Status" />
 </div>
 
 <br />
@@ -66,10 +69,10 @@ fun:
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **Personal Portfolio** | Next.js, Tailwind CSS, TypeScript | Modern personal website featuring dark aesthetic, responsive design & interactive components. | [Live Demo](https://el-mas.web.id/) |
-| **Asyitech** | Modern Web, Cloudflare | Tech ecosystem & digital solutions hub for creative web development. | [Website](https://asyitech.id) |
-| **Sistem Monitoring Pesantren** | Full-Stack Web, MySQL, PHP | Sistem informasi manajemen pesantren terpadu: absensi digital santri, pencatatan SPP, dan administrasi. | [Repository](https://github.com/el-mas-dev/System-Monitoring-Pesantren-) |
-| **LaskarSpace** | TypeScript, React / Modern Web | Collaborative platform & modern web workspace application. | [Repository](https://github.com/el-mas-dev/LaskarSpace) |
+| **Personal Portfolio** | Next.js, Tailwind CSS, TypeScript | Modern personal website featuring dark aesthetic, responsive design & interactive components. | [🌐 Live Demo](https://el-mas.web.id/) |
+| **Asyitech** | Modern Web, Cloudflare | Tech ecosystem & digital solutions hub for creative web development. | [🏢 Website](https://asyitech.id) |
+| **Sistem Monitoring Pesantren** | Full-Stack Web, MySQL, PHP | Sistem informasi manajemen pesantren terpadu: absensi digital santri, pencatatan SPP, dan administrasi. | [💻 Repository](https://github.com/el-mas-dev/System-Monitoring-Pesantren-) |
+| **LaskarSpace** | TypeScript, React / Modern Web | Collaborative platform & modern web workspace application. | [🚀 Repository](https://github.com/el-mas-dev/LaskarSpace) |
 
 <br />
 
