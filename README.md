@@ -63,16 +63,25 @@ fun:
   - ⚡ Video editing, campus media coverage & experimenting with AI tools
 ```
 
+<div align="center">
+  <a href="https://www.unesa.ac.id/" target="_blank">
+    <img src="assets/logo-unesa.png" width="46" style="vertical-align: middle; margin-right: 8px;" alt="Logo Universitas Negeri Surabaya" />
+  </a>
+  <b>Informatics Engineering Student</b> &bull; <a href="https://www.unesa.ac.id/" target="_blank"><b>Universitas Negeri Surabaya (UNESA)</b></a>
+</div>
+
 <br />
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Personal Portfolio** | Next.js, Tailwind CSS, TypeScript | Modern personal website featuring dark aesthetic, responsive design & interactive components. | [🌐 Live Demo](https://el-mas.web.id/) |
-| **Asyitech** | Modern Web, Cloudflare | Tech ecosystem & digital solutions hub for creative web development. | [🏢 Website](https://asyitech.id) |
-| **Sistem Monitoring Pesantren** | Full-Stack Web, MySQL, PHP | Sistem informasi manajemen pesantren terpadu: absensi digital santri, pencatatan SPP, dan administrasi. | [💻 Repository](https://github.com/el-mas-dev/System-Monitoring-Pesantren-) |
-| **LaskarSpace** | TypeScript, React / Modern Web | Collaborative platform & modern web workspace application. | [🚀 Repository](https://github.com/el-mas-dev/LaskarSpace) |
+<div align="center">
+  <a href="https://github.com/el-mas-dev/System-Monitoring-Pesantren-">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=el-mas-dev&repo=System-Monitoring-Pesantren-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+  </a>
+  <a href="https://github.com/el-mas-dev/LaskarSpace">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=el-mas-dev&repo=LaskarSpace&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+  </a>
+</div>
 
 <br />
 
