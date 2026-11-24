@@ -56,7 +56,7 @@ role: Web Developer & Full-Stack Builder
 education: Informatics Engineering @ State University of Surabaya (UNESA)
 focus:
   - 🔭 Crafting aesthetic, responsive & interactive web experiences
-  - 💻 Building full-stack apps with Next.js, TypeScript, Laravel & Supabase
+  - 💻 Building full-stack apps with Next.js, TypeScript, Laravel, Django & Supabase
   - 🤖 Exploring AI SDK integration, Linux VPS & IoT automation
 fun:
   - 📢 Managing Faculty-level social media strategy & digital engagement
@@ -102,7 +102,7 @@ fun:
 **⚙️ Backend & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,supabase,postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,supabase,postgres,mysql,mongodb" />
 </p>
 
 **☁️ Cloud, DevOps & Dev Tools**
