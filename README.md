@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/el-mas-dev">
-    <img src="https://github.com/el-mas-dev.png" width="175" style="border-radius: 50%;" alt="Ahmad Syaifulloh" />
+    <img src="assets/foto.png" width="175" style="border-radius: 50%;" alt="Ahmad Syaifulloh" />
   </a>
 </div>
 
