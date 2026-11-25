@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Frontend+%26+UI%2FUX+Engineer;Informatics+Engineering+%40+UNESA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Full+Stack+%26+Mobile+Developer;Frontend+%26+UI%2FUX+Engineer;Informatics+Engineering+%40+UNESA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -52,10 +52,11 @@
 ```yaml
 name: Ahmad Syaifulloh
 from: Surabaya, Indonesia 🇮🇩
-role: Web Developer & Full-Stack Builder
+role: Full-Stack & Mobile Developer
 education: Informatics Engineering @ State University of Surabaya (UNESA)
 focus:
   - 🔭 Crafting aesthetic, responsive & interactive web experiences
+  - 📱 Building cross-platform mobile apps with Flutter & Android Studio
   - 💻 Building full-stack apps with Next.js, TypeScript, Laravel, Django & Supabase
   - 🤖 Exploring AI SDK integration, Linux VPS & IoT automation
 fun:
@@ -74,6 +75,12 @@ fun:
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  🌐 <i>Explore Live Platforms:</i> 
+  <a href="https://el-mas.web.id/" target="_blank"><b>Personal Portfolio</b></a> &bull; 
+  <a href="https://asyitech.id" target="_blank"><b>Asyitech Hub</b></a>
+</p>
+
 <div align="center">
   <a href="https://github.com/el-mas-dev/System-Monitoring-Pesantren-">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=el-mas-dev&repo=System-Monitoring-Pesantren-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
@@ -90,7 +97,7 @@ fun:
 **💻 Programming Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart,cpp,html,css" />
 </p>
 
 **🎨 Frontend & Styling**
@@ -121,6 +128,7 @@ fun:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="44" height="44" alt="OpenAI" title="OpenAI" />&nbsp;
   <img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23ffffff" width="44" height="44" alt="AI SDK" title="AI SDK" />&nbsp;
   <img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23ffffff" width="44" height="44" alt="Cursor IDE" title="Cursor IDE" />&nbsp;
   <img src="https://api.iconify.design/devicon/canva.svg" width="46" height="46" alt="Canva" title="Canva" />&nbsp;
