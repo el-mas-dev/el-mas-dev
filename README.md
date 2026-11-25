@@ -99,6 +99,12 @@ fun:
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
+**📱 Mobile Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
 **⚙️ Backend & Database**
 
 <p align="left">
