@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1520,50:162c38,100:1f4050&height=190&section=header&text=AHMAD%20SYAIFULLOH&fontSize=46&fontColor=ffffff&fontAlignY=43&desc=Web%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=66&descSize=16" width="100%" />
+  <a href="https://el-mas.web.id/" target="_blank">
+    <img src="assets/banner.jpg" width="100%" alt="Ahmad Syaifulloh Portfolio Preview" />
+  </a>
 </div>
 
 <br />
